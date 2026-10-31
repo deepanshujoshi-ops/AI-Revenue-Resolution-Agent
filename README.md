@@ -125,16 +125,6 @@ Use the [local demo guide](docs/DEMO_GUIDE.md) to walk through the dashboard, re
 
 Before describing this project as tested, run the demo steps yourself and record the actual outcomes. Do not publish made-up transaction counts, recovered-revenue totals, or performance metrics.
 
-## Screenshots
-
-Add genuine screenshots captured from a local run under `docs/images/` and embed them here after you have verified that they contain no API keys, customer data, payment IDs, phone numbers, or other sensitive information. A useful minimum is:
-
-1. Dashboard overview with the four KPI cards.
-2. A reconciliation case showing the before/after order state.
-3. A mismatch case showing that the safety check blocks automated action.
-4. A recovery case showing the generated Test Mode payment link and its recorded status.
-
-Do not use fabricated dashboard data or screenshots from a different project.
 
 ## Current limitations and next steps
 
